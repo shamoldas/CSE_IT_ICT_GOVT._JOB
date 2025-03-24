@@ -7,7 +7,7 @@ CSE_IT_ICT GOVT.JOB PREPARATION GUIDELINE &amp; NOTE
 <h3>C Programming & OOP</h3>
 
 1. Compiler vs Interpreter, High level, mid,  low level language. 
-2. Data types, switch-case,looo( for, while, do-while)
+2. Data types, switch-case,loop( for, while, do-while)
 3. Main function এর কাজ, Recursion 
 4. Dynamic memory allocation
 5. কিছু ব্যাসিক প্রোগ্রাম যেমন: Recursion using factorial, prime number, biggest number etc.
@@ -191,7 +191,7 @@ Deterministic finite automaton (DFA) and a nondeterministic finite automaton
 
 <br>
 
-CSE/IT/ICT job guideline 
+<b>CSE/IT/ICT job guideline </b>
 
 প্রথম কাজ হলো একটি প্রশ্নব্যাংক নেওয়া।তারপর বিগত সালের প্রশ্ন দেখে নিজের অবস্থান বুঝতে পারা যে প্রশ্ন গুলো আসছে তা আমার পড়াশুনার মাঝেই আছে নাকি তার বাহিরে। নিজের যেসব বিষয়ে পড়াশুনা ছিলো তা আগে ভালো করে কভার করে নেওয়া( এবং তার পাশে short note করে রাখা ঐ টপিকের main core বিষয়বস্তু বুঝতে)। নিজের কাছে যেসব প্রশ্ন গুরুত্বপূর্ণ মনে হবে তা starmark করে রাখা। এটা IT part এর MCQ & Written দুইটার জন্যই। তার পরে যেসব টপিক পড়া ছিলো না তা পড়ে বুঝতে পারা। ( searching,  কারো সাহায্য নেওয়া,..) 
 
