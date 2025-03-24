@@ -2,16 +2,27 @@
 CSE_IT_ICT GOVT.JOB PREPARATION GUIDELINE &amp; NOTE
 
 
-	<center><h2>.….......CSE/IT/ICT…..........</h2></center>
+	<h2><center>.….......CSE/IT/ICT…..........</center></h2>
 
-<h3>C Programming</h3>
+<h3>C Programming & OOP</h3>
 
 1. Compiler vs Interpreter, High level, mid,  low level language. 
-2. Data types, switch-case, do-while
+2. Data types, switch-case,looo( for, while, do-while)
 3. Main function এর কাজ, Recursion 
 4. Dynamic memory allocation
 5. কিছু ব্যাসিক প্রোগ্রাম যেমন: Recursion using factorial, prime number, biggest number etc.
-6.C programming লিস্ট টা একটু দেখে...।
+6.C programming লিস্ট টা একটু দেখবেন...
+7.structure, union, pointer
+8.object,  class
+9. data abstraction
+10. Inheritance ( single, multiple, multilevel, hierarchical, hybrid)
+11. Encapsulation
+12. polymorphism 
+
+
+
+
+
 
 <h3>Data Structure and Algorithm </h3>
 
@@ -28,19 +39,24 @@ CSE_IT_ICT GOVT.JOB PREPARATION GUIDELINE &amp; NOTE
 11. P vs NP
 12. Time complexity vs Space complexity. Big O, theta notations
 13. Pseudocode for linear search, Binary search
+14. heap sort
+15. different type define with example ( linked list, data structure,  algorithm, queue, stack)
+16. binary tree operation & different type tree
 
 <h3>Database</h3>
 
-1. ACID properties
+1. ACID properties (atomicity,  consistency, isolation, durability) 
 2. Database schema and a database instance
 3. Normalization, 1NF, 2NF, 3, BCNF etc
 4. SQL queries must 
 5. Join operations with examples
-6. ER diagram
+6. ER diagram( graphically representing the logical relationship of entities) 
 7. Database triggers
 8. Different types of database relationships
 9. SQL vs NoSQL
 10. Candidate key, functional dependency, Attribute closure, Armstrong axioms
+11. database architecture
+12. relational algebra 
 
 
 <h3>Data Communication and Networking</h3>
@@ -79,15 +95,21 @@ CSE_IT_ICT GOVT.JOB PREPARATION GUIDELINE &amp; NOTE
 13. Software Development Models
 14. Related Maths
 
+<h3>Digital Logic & Computer Design </h3>
 
+1. Number System 
+2. Logic Gate
+3. K- Map
+4. Block Diagram 
+5. latch vs flipflop 
 
 
 <h3>Cyber security</h3>
 
-1. CIA triad
+1. CIA triad (confidentiality, integrity, availability) 
 2. Vulnerability, Threat, Risk
 3. Two-factor Authentication
-4. Symmetric and asymmetric encryption
+4. Symmetric and asymmetric encryption ( public key)
 5. Firewall and an intrusion detection system (IDS)
 6. Hashing Techniques
 7. Differences between penetration testing and vulnerability assessment
@@ -120,7 +142,7 @@ CSE_IT_ICT GOVT.JOB PREPARATION GUIDELINE &amp; NOTE
 
 1. IaaS, PaaS, and SaaS
 2. Cloud deployment models
-3. Serverless computing
+3. Serverless computing ( cloud base mode) 
 4. Content Delivery Network (CDN)
 5. Role of APIs
 
@@ -171,13 +193,15 @@ Deterministic finite automaton (DFA) and a nondeterministic finite automaton
 
 CSE/IT/ICT job guideline 
 
-প্রথম কাজ হলো একটি প্রশ্নব্যাংক নেওয়া।তারপর বিগত সালের প্রশ্ন দেখে নিজের অবস্থান বুঝতে পারা যে প্রশ্ন গুলো আসছে তা আমার পড়াশুনার মাঝেই আছে নাকি তার বাহিরে। নিজের যেসব বিষয়ে পড়াশুনা ছিলো তা আগে ভালো করে কভার করে নেওয়া( এবং তার পাশে short note করে রাখা ঐ টপিকের main core বিষয়বস্তু বুঝতে)। নিজের কাছে যেসব প্রশ্ন গুরুত্বপূর্ণ মনে হবে তা starmark করে রাখা। এটা IT part এর MCQ & Written দুইটার জন্যই। তার পরে যেসব টপিক পড়া ছিলো তা পড়ে বুঝতে পারা।
+প্রথম কাজ হলো একটি প্রশ্নব্যাংক নেওয়া।তারপর বিগত সালের প্রশ্ন দেখে নিজের অবস্থান বুঝতে পারা যে প্রশ্ন গুলো আসছে তা আমার পড়াশুনার মাঝেই আছে নাকি তার বাহিরে। নিজের যেসব বিষয়ে পড়াশুনা ছিলো তা আগে ভালো করে কভার করে নেওয়া( এবং তার পাশে short note করে রাখা ঐ টপিকের main core বিষয়বস্তু বুঝতে)। নিজের কাছে যেসব প্রশ্ন গুরুত্বপূর্ণ মনে হবে তা starmark করে রাখা। এটা IT part এর MCQ & Written দুইটার জন্যই। তার পরে যেসব টপিক পড়া ছিলো না তা পড়ে বুঝতে পারা। ( searching,  কারো সাহায্য নেওয়া,..) 
 
 আর একটা কথা বলি, প্রশ্নব্যাংকে অনেক উত্তর ভুল ও অগোছালো থাকে। 
 
 তাই এইসব ধীর গতিতে এগিয়ে যাওয়া ভালো হবে এবং বুঝে বুঝে পড়তে হবে।
 
 এক/দুইবার যখন প্রশ্নব্যাংক সমাধান হয়ে যাবে। তখন আলাদা খাতা বা ডকফাইলে নিজস্ব ভাবে পড়া নোট করতে হবে। 
+নিজের অবস্থান বুঝতে পারা খুবই জরুরি!! যা জানার ও বুঝা ছিলো তা যেন পরিক্ষার খাতায় ভালো করে লিখে আসতে পারি। 
+ধন্যবাদ।।। 
 
 
 
